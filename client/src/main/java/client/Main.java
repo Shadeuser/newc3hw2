@@ -14,6 +14,9 @@ public class Main extends Application {
         primaryStage.setTitle("Super chat");
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
+
+
+
     }
 
 

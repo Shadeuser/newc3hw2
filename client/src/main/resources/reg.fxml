@@ -13,4 +13,5 @@
 
     <Button text="Зарегистрироваться" onAction="#clickOk"/>
 
+
 </VBox>
